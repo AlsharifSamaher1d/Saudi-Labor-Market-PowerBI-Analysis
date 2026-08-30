@@ -2,19 +2,6 @@
 
 A data visualization and labor-market analysis project focused on the **Saudi Arabian manpower sector**. The project uses Saudi government open data to explore employment, unemployment, workforce demographics, regional variation, subsidy programs, and labor-market trends in the context of **Saudi Vision 2030**.
 
-## Authors
-
-- **Hanan M. Alharthi**
-- **Samaher S. Alsharif**
-- **Shahd H. Altalhi**
-
-**Course:** Data Visualization  
-**Program:** Master's of Data Science  
-**Department:** Department of Computer Science  
-**College:** College of Computers and Information Technology  
-**Institution:** Taif University, KSA  
-**Course Doctor:** Dr. Mubarakah Al-Osaimi
-
 ## Project Overview
 
 Saudi Arabia's labor market has been undergoing major changes driven by economic diversification, Saudization policies, workforce reforms, and initiatives associated with Saudi Vision 2030. This project applies data visualization and exploratory analysis to help understand labor-market patterns and support evidence-based interpretation of employment and policy-related indicators.
@@ -150,3 +137,9 @@ Saudi-Labor-Market-PowerBI-Analysis/
 ## Project Significance
 
 This project demonstrates how data visualization can support understanding of labor-market trends in Saudi Arabia and help communicate complex workforce information more clearly. The analysis aligns with the broader goals of Saudi Vision 2030 by examining employment, workforce participation, regional variation, and labor-support initiatives through a data-driven approach.
+
+## Authors
+
+- **Hanan M. Alharthi**
+- **Samaher S. Alsharif**
+- **Shahd H. Altalhi**
